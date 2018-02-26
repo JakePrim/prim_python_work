@@ -63,5 +63,4 @@ L = [
 
 print("apple:" + L[0][0])
 print("python:" + L[1][1])
-
 print("Lisa:" + L[2][2])
